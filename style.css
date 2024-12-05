@@ -30,7 +30,7 @@
     width: 40px;
     height: 40px;
     border-radius: 50%;
-     background-color: white;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -184,22 +184,57 @@ header {
 
 .day1 {
     background-color: #EEE9D9;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex; justify-content: space-between; flex-direction: column;
 }
 
 .day2 {
     background-color: #8BB8C1CC;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex; justify-content: space-between; flex-direction: column;
 }
 
 .day3 {
     background-color: #AAD8D7CC;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex; justify-content: space-between; flex-direction: column;
 }
 
 .day4 {
     background-color: #8BC0BDCC;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex; justify-content: space-between; flex-direction: column;
 }
 
 .day5 {
     background-color: #97CCE0CC;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex; justify-content: space-between; flex-direction: column;
 }
 
 .gadnatal {
@@ -208,4 +243,16 @@ header {
     justify-content: space-around;
 }
 
-.shirheg5 {}
+.shirheg5 {
+}
+
+.leftday {
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex; justify-content: space-between; flex-direction: column;
+
+}
